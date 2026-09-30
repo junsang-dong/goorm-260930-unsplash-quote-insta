@@ -1,0 +1,222 @@
+[
+  {
+    "id": "autumn-01",
+    "text": "수레 멈추고 앉아 늦은 단풍숲을 즐기니,\n서리 맞은 잎이 이월의 꽃보다 붉구나.",
+    "original": "停車坐愛楓林晩，霜葉紅於二月花。",
+    "reading": "정거좌애풍림만, 상엽홍어이월화",
+    "author": "두목(杜牧)",
+    "source": "「산행(山行)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "peace", "change"]
+  },
+  {
+    "id": "autumn-02",
+    "text": "예로부터 가을이면 쓸쓸함을 슬퍼했으나,\n나는 말하리라, 가을날이 봄 아침보다 낫다고.",
+    "original": "自古逢秋悲寂寥，我言秋日勝春朝。",
+    "reading": "자고봉추비적료, 아언추일승춘조",
+    "author": "유우석(劉禹錫)",
+    "source": "「추사(秋詞)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "challenge", "growth"]
+  },
+  {
+    "id": "autumn-03",
+    "text": "밝은 달은 소나무 사이로 비추고,\n맑은 샘물은 돌 위로 흐르네.",
+    "original": "明月松間照，清泉石上流。",
+    "reading": "명월송간조, 청천석상류",
+    "author": "왕유(王維)",
+    "source": "「산거추명(山居秋暝)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "peace", "reflection"]
+  },
+  {
+    "id": "autumn-04",
+    "text": "끝없는 나뭇잎은 우수수 떨어지고,\n다함없는 장강은 도도히 흘러오네.",
+    "original": "無邊落木蕭蕭下，不盡長江滾滾來。",
+    "reading": "무변낙목소소하, 부진장강곤곤래",
+    "author": "두보(杜甫)",
+    "source": "「등고(登高)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "change", "reflection"]
+  },
+  {
+    "id": "autumn-05",
+    "text": "이슬은 오늘 밤부터 희어지고,\n달은 고향의 달이 가장 밝구나.",
+    "original": "露從今夜白，月是故鄉明。",
+    "reading": "노종금야백, 월시고향명",
+    "author": "두보(杜甫)",
+    "source": "「월야억사제(月夜憶舍弟)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "comfort", "solitude"]
+  },
+  {
+    "id": "autumn-06",
+    "text": "달 지고 까마귀 우는데 서리는 하늘에 가득하고,\n강가 단풍과 고깃배 불빛이 시름 속 잠을 마주하네.",
+    "original": "月落烏啼霜滿天，江楓漁火對愁眠。",
+    "reading": "월락오제상만천, 강풍어화대수면",
+    "author": "장계(張繼)",
+    "source": "「풍교야박(楓橋夜泊)」, 당(唐)",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "solitude", "journey"]
+  },
+  {
+    "id": "autumn-07",
+    "text": "나뭇잎 하나 지는 것을 보고\n한 해가 저물어 감을 안다.",
+    "original": "見一葉落，而知歲之將暮。",
+    "reading": "견일엽락, 이지세지장모",
+    "author": "『회남자(淮南子)』",
+    "source": "「설산훈(說山訓)」, 한(漢) · 성어 '일엽지추(一葉知秋)'의 유래",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "reflection", "change"]
+  },
+  {
+    "id": "autumn-08",
+    "text": "구름 걷히니 요사한 별이 떨어지고,\n가을 하늘 높아 변방의 말이 살찐다.",
+    "original": "雲淨妖星落，秋高塞馬肥。",
+    "reading": "운정요성락, 추고새마비",
+    "author": "두심언(杜審言)",
+    "source": "「증소미도(贈蘇味道)」, 당(唐) · 성어 '천고마비(天高馬肥)'의 유래",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "freedom", "passion"]
+  },
+  {
+    "id": "autumn-09",
+    "text": "가을 되어 장맛비 개고 서늘한 기운 들판에 드니,\n등불을 가까이하고 책을 펼칠 만하다.",
+    "original": "時秋積雨霽，新涼入郊墟。燈火稍可親，簡編可卷舒。",
+    "reading": "시추적우제, 신량입교허. 등화초가친, 간편가권서",
+    "author": "한유(韓愈)",
+    "source": "「부독서성남(符讀書城南)」, 당(唐) · 성어 '등화가친(燈火可親)'의 유래",
+    "origin": "CN",
+    "lang": "ko",
+    "tags": ["autumn", "focus", "growth"]
+  },
+  {
+    "id": "autumn-10",
+    "text": "깊은 산 단풍잎 헤치며 우는 사슴 소리\n들을 때야말로 가을은 슬프구나.",
+    "original": "奥山に 紅葉踏み分け 鳴く鹿の 声聞く時ぞ 秋は悲しき",
+    "reading": "오쿠야마니 모미지 후미와케 나쿠 시카노 코에 키쿠 토키조 아키와 카나시키",
+    "author": "사루마루 다유(猿丸大夫)",
+    "source": "『고금와카집(古今和歌集)』 · 『백인일수(百人一首)』 5번",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "solitude", "reflection"]
+  },
+  {
+    "id": "autumn-11",
+    "text": "가을이 왔다고 눈에는 뚜렷이 보이지 않건만,\n바람 소리에 문득 놀라게 되는구나.",
+    "original": "秋来ぬと 目にはさやかに 見えねども 風の音にぞ おどろかれぬる",
+    "reading": "아키 키누토 메니와 사야카니 미에네도모 카제노 오토니조 오도로카레누루",
+    "author": "후지와라노 도시유키(藤原敏行)",
+    "source": "『고금와카집(古今和歌集)』 169번, 헤이안 시대",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "beginning", "change"]
+  },
+  {
+    "id": "autumn-12",
+    "text": "가을은 해 질 녘.",
+    "original": "秋は夕暮れ。",
+    "reading": "아키와 유구레",
+    "author": "세이 쇼나곤(清少納言)",
+    "source": "『마쿠라노소시(枕草子)』 제1단, 헤이안 시대",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "peace", "reflection"]
+  },
+  {
+    "id": "autumn-13",
+    "text": "이 길이여,\n오가는 이 하나 없이\n저무는 가을.",
+    "original": "この道や 行く人なしに 秋の暮",
+    "reading": "코노 미치야 유쿠 히토 나시니 아키노 쿠레",
+    "author": "마쓰오 바쇼(松尾芭蕉)",
+    "source": "하이쿠, 1694년",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "solitude", "journey"]
+  },
+  {
+    "id": "autumn-14",
+    "text": "가을 깊어라,\n이웃은 무얼 하는\n사람일까.",
+    "original": "秋深き 隣は何を する人ぞ",
+    "reading": "아키 후카키 토나리와 나니오 스루 히토조",
+    "author": "마쓰오 바쇼(松尾芭蕉)",
+    "source": "하이쿠, 1694년",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "solitude", "comfort"]
+  },
+  {
+    "id": "autumn-15",
+    "text": "신들의 시대에도 들어 보지 못했네,\n다쓰타강 물을 붉은 단풍으로 홀치기 물들이다니.",
+    "original": "ちはやぶる 神代も聞かず 竜田川 からくれなゐに 水くくるとは",
+    "reading": "치하야부루 카미요모 키카즈 타츠타가와 카라쿠레나이니 미즈 쿠쿠루토와",
+    "author": "아리와라노 나리히라(在原業平)",
+    "source": "『고금와카집(古今和歌集)』 · 『백인일수(百人一首)』 17번",
+    "origin": "JP",
+    "lang": "ko",
+    "tags": ["autumn", "passion", "change"]
+  },
+  {
+    "id": "autumn-16",
+    "text": "가을바람에 애써 시를 읊건만\n세상에 나를 알아주는 이 적구나.\n창밖엔 삼경의 비 내리고\n등불 앞의 마음은 만 리를 달리네.",
+    "original": "秋風唯苦吟，世路少知音。窓外三更雨，燈前萬里心。",
+    "reading": "추풍유고음, 세로소지음. 창외삼경우, 등전만리심",
+    "author": "최치원(崔致遠)",
+    "source": "「추야우중(秋夜雨中)」, 통일신라",
+    "origin": "KR",
+    "lang": "ko",
+    "tags": ["autumn", "solitude", "reflection"]
+  },
+  {
+    "id": "autumn-17",
+    "text": "추강에 밤이 드니 물결이 차노매라\n낚시 드리우니 고기 아니 무노매라\n무심한 달빛만 싣고 빈 배 저어 오노라",
+    "original": "추강(秋江)에 밤이 드니 물결이 차노매라 / 낚시 드리우니 고기 아니 무노매라 / 무심(無心)한 달빛만 싣고 빈 배 저어 오노라",
+    "reading": "",
+    "author": "월산대군(月山大君)",
+    "source": "시조, 조선 전기",
+    "origin": "KR",
+    "lang": "ko",
+    "tags": ["autumn", "peace", "freedom"]
+  },
+  {
+    "id": "autumn-18",
+    "text": "흥망이 유수하니 만월대도 추초로다\n오백 년 왕업이 목적에 부쳤으니\n석양에 지나는 객이 눈물겨워 하노라",
+    "original": "흥망(興亡)이 유수(有數)하니 만월대(滿月臺)도 추초(秋草)로다 / 오백 년(五百年) 왕업(王業)이 목적(牧笛)에 부쳤으니 / 석양(夕陽)에 지나는 객(客)이 눈물겨워 하노라",
+    "reading": "",
+    "author": "원천석(元天錫)",
+    "source": "회고가 시조, 고려 말~조선 초",
+    "origin": "KR",
+    "lang": "ko",
+    "tags": ["autumn", "reflection", "change"]
+  },
+  {
+    "id": "autumn-19",
+    "text": "가을에는 부지깽이도 덤빈다.",
+    "original": "가을에는 부지깽이도 덤빈다.",
+    "reading": "",
+    "author": "한국 속담",
+    "source": "추수철에는 누구나 일손을 보태야 할 만큼 바쁘다는 뜻",
+    "origin": "KR",
+    "lang": "ko",
+    "tags": ["autumn", "passion", "focus"]
+  },
+  {
+    "id": "autumn-20",
+    "text": "가을 아욱국은 사립문 닫고 먹는다.",
+    "original": "가을 아욱국은 사립문 닫고 먹는다.",
+    "reading": "",
+    "author": "한국 속담",
+    "source": "남에게 나누기 아까울 만큼 가을 아욱국 맛이 좋다는 뜻",
+    "origin": "KR",
+    "lang": "ko",
+    "tags": ["autumn", "comfort", "peace"]
+  }
+]
